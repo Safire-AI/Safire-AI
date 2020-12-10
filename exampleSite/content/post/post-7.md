@@ -5,6 +5,5 @@ image: "images/post/post-7.jpg"
 author: "John Doe" # use capitalize
 description: "This is meta description."
 categories: ["nature"]
-tags: ["thumb", "video", "top"]
 draft: false
 ---
